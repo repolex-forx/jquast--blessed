@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "jquast",
+  "repo": "blessed",
+  "versions": [
+    {
+      "commit": "f44b071db8480c787f3dffd80c4e0595850a9134",
+      "parsed_at": "2026-04-15T02:28:48.261351+00:00",
+      "tag": "terminator-1.0.1",
+      "filetree": "filetree/f44b071db8480c787f3dffd80c4e0595850a9134.nq.gz",
+      "blobs": [
+        "blob/481d411e55029e02b589ffd5917d07df7647d399.nq.gz",
+        "blob/d65016ced670ec0755587c66052106aa9d93e941.nq.gz",
+        "blob/9561fb1061f6de114633c70871232a6896dcbe8a.nq.gz",
+        "blob/41401622153b9bd168f86a6d293389104dda3bb6.nq.gz",
+        "blob/9ca6184eba9747b23436762899b93dd782299c83.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
